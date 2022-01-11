@@ -1,0 +1,4 @@
+1. 1. Vad innebär formen på pilspetsarna från Owl och Squirrel till Animal?
+
+De innebär vilka arv som finns mellan klasserna Animal och owl och squirrel. 
+Owl och squirrel(subklass, child) får samma uppsätttning av instansvariblerna och metoderna som är specificerade i huvudklassen Animal(Superklass,parent).
